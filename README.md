@@ -1,10 +1,11 @@
 # 📦 PeykLink - P2P Logistics & Delivery Platform (Beta)
 
 > **Note:** The source code for this project is currently private as it is a pre-release startup. This repository serves as a technical showcase of the architecture, UI/UX, and security implementations.
-
-<img src="https://raw.githubusercontent.com/tourajshah/PeykLink-Showcase/main/assets/PL-SC.gif" width="25%" />
-
-📺 **[Watch Full 60FPS Demo on YouTube ->](https://www.youtube.com/watch?v=GyoMVWgLNFk)**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tourajshah/PeykLink-Showcase/main/assets/PL-SC.gif" width="25%" />
+  
+  📺 **[Watch Full 60FPS Demo on YouTube ->](https://www.youtube.com/watch?v=GyoMVWgLNFk)**
+</div>
 
 ## 🚀 Technical Overview
 PeykLink connects international travelers with local shoppers, acting as a secure escrow and delivery verification platform. It was built from the ground up prioritizing 60FPS animations, native-like gesture controls, and cryptographically secure transactions.
