@@ -19,7 +19,7 @@ PeykLink connects international travelers with local shoppers, acting as a secur
 
 ## 🔐 Core Engineering Highlights
 
-### 1. Bank-Grade Delivery Verification
+### 1. Secure Delivery Verification
 Replaced standard pseudo-random number generation (`Math.random`) with native `crypto.getRandomValues` for secure 6-digit delivery codes. 
 * **Encryption:** Implemented two-way `AES-GCM` symmetric encryption, strictly enforcing 32-byte (256-bit) keys. The initialization vector (IV) is safely stored alongside the encrypted payload.
 * **Decryption:** Decryption logic is seamlessly embedded within Convex queries, resolving the plaintext code in a single network request while safely evaluating user permissions.
